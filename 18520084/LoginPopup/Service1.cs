@@ -22,6 +22,7 @@ namespace LoginPopup
 
         protected override void OnStart(string[] args)
         {
+            // Can ignore this but try it to make sure this service works.
             SessionChangeDescription sschange = new SessionChangeDescription();
             OnSessionChange(sschange);
         }
@@ -32,7 +33,6 @@ namespace LoginPopup
         }
 
         // Catch event user logon
-
         protected override void OnSessionChange(SessionChangeDescription changeDescription)
         {
             base.OnSessionChange(changeDescription);
@@ -45,7 +45,15 @@ namespace LoginPopup
         }
 
         // Show pop-up with student ID
+        public static IntPtr WTS_CURRENT_SERVER_HANDLE = IntPtr.Zero;
+        
+        [DllImport("kernel32.dll", SetLastError = true)]
+        static extern int WTSGetActiveConsoleSessionID();
+        
         [DllImport("wtsapi32.dll", SetLastError = true)]
+        // public static int WTS_CURRENT_SESSION = 3;
+        // If using WTGetActiveConsoleSessionID() didn't work, try WTS_CURRENT_SESSION.
+        // Using tasklist to check your current session id
         
         static extern bool WTSSendMessage(
               IntPtr hServer,
@@ -58,13 +66,6 @@ namespace LoginPopup
               [MarshalAs(UnmanagedType.U4)] int Timeout,
               [MarshalAs(UnmanagedType.U4)] out int pResponse,
               bool bWait);
-
-        [DllImport("kernel32.dll", SetLastError = true)]
-        static extern int WTSGetActiveConsoleSessionID();
-
-        public static IntPtr WTS_CURRENT_SERVER_HANDLE = IntPtr.Zero;
-
-        //public static int WTS_CURRENT_SESSION = 3;
 
         public static void Show_Message()
         {
