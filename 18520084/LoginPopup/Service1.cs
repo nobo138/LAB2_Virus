@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -37,13 +38,15 @@ namespace LoginPopup
             base.OnSessionChange(changeDescription);
 
             // If user logon successfully, show pop-up
-            if (changeDescription.Reason == SessionChangeReason.SessionUnlock) ;
+            if (changeDescription.Reason == SessionChangeReason.SessionUnlock)
             {
                 Show_Message();
             }
         }
 
         // Show pop-up with student ID
+        [DllImport("wtsapi32.dll", SetLastError = true)]
+        
         static extern bool WTSSendMessage(
               IntPtr hServer,
               [MarshalAs(UnmanagedType.I4)] int SessionId,
@@ -56,11 +59,12 @@ namespace LoginPopup
               [MarshalAs(UnmanagedType.U4)] out int pResponse,
               bool bWait);
 
-        [DllImport("Kernel32.dll", SetLastError = true)]
+        [DllImport("kernel32.dll", SetLastError = true)]
         static extern int WTSGetActiveConsoleSessionID();
 
         public static IntPtr WTS_CURRENT_SERVER_HANDLE = IntPtr.Zero;
-        public static int WTS_CURRENT_SESSION = 1;
+
+        //public static int WTS_CURRENT_SESSION = 3;
 
         public static void Show_Message()
         {
@@ -68,12 +72,16 @@ namespace LoginPopup
             string title = "Hello";
             int tlen = title.Length;
             string msg = "StudentID: 18520084!";
-            int mlen = msg.Length;
+            int mlen = msg.Length;  
             int resp = 0;
 
-            result = WTSSendMessage(WTS_CURRENT_SERVER_HANDLE, WTS_CURRENT_SESSION, title, tlen, msg, mlen, 0, 0, out resp, true);
+            result = WTSSendMessage(WTS_CURRENT_SERVER_HANDLE, WTSGetActiveConsoleSessionID(), title, tlen, msg, mlen, 0, 0, out resp, true);
             //int err = Marshal.GetLastWin32Error();
             //System.Console.WriteLine("result:{0}, errorCode:{1}, response:{2}", result, err, resp);
         }
+    }
+
+    internal class SystemEvents_SessionSwitch
+    {
     }
 }

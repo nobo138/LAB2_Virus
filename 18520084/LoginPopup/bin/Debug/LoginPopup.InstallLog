@@ -1,0 +1,523 @@
+﻿Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+An exception occurred while trying to find the installers in the E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe assembly.
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+Aborting installation for E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = E:\UITK13\THIRD-YEAR-2020-2021\2ndsemester\NT230.L21.ANTT\NT230.L21.ANTT.1\NT230.Lab02\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\THUCHANH\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
